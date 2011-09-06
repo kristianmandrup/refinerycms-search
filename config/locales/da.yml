@@ -1,0 +1,6 @@
+da:
+  plugins:
+    refinerycms_search:
+      title: Søg
+      description: Ekstra søge funktionalitet for Refinery CMS
+
